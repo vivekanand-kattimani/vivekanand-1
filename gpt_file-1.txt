@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 now creating my file in master repository called vivekanand-1
 hi hello
+=======
+i am vivek
+>>>>>>> cse
